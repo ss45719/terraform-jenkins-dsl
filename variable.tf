@@ -1,3 +1,3 @@
 variable "token" {
-   default = $token
+   default = "$token"
 }
